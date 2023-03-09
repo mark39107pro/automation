@@ -1,6 +1,9 @@
 # amass automation
 # automate amass
-# simply run python amass.py 
+
+for linux
+
+# simply run  ---  python amass.py > targets.txt 
 
 :requirements are mentioned below
 
