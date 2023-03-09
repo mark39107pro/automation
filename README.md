@@ -1,5 +1,8 @@
 # amass automation
 # automate amass
+# simply run python amass.py 
+
+:requirements are mentioned below
 
 automate amass for large targets
  
