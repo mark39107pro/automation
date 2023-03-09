@@ -20,4 +20,4 @@ edit mode from passive to active in config.ini
 my config for amass is here  - https://github.com/mark39107pro/amassconfig.git
 
 # Note
-is might give many false positives
+it might give few false positives
