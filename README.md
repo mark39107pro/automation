@@ -1,9 +1,11 @@
 # amass automation
 # automate amass
 
-for linux
 
-# simply run  ---  python amass.py > targets.txt 
+#for linux
+simply run  ---  python amass.py > targets.txt 
+domains will be saved in targets.txt
+
 
 :requirements are mentioned below
 
@@ -16,3 +18,6 @@ for active enumeration use more seconds (3600)
 edit mode from passive to active in config.ini 
 
 my config for amass is here  - https://github.com/mark39107pro/amassconfig.git
+
+# Note
+is might give many false positives
