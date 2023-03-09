@@ -1,4 +1,5 @@
-# amassautomation
+# amass automation
+# automate amass
 
 automate amass for large targets
  
