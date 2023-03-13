@@ -9,6 +9,11 @@
 call plug#end()   
 
 
+init.vim is in cd ~/.config
+
+
+install spacevim -  curl -sLf https://spacevim.org/install.sh | bash
+
 
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
