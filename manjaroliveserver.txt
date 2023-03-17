@@ -1,0 +1,4 @@
+sudo pacman -S archlinux-keyring
+sudo pacman -Syu nodejs npm
+npm install live-server
+npx live-server
