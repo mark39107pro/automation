@@ -94,10 +94,7 @@ lvim.builtin.treesitter.auto_install = true
 
 -- -- Additional Plugins <https://www.lunarvim.org/docs/plugins#user-plugins>
 lvim.plugins = {
-  {"lunarvim/colorschemes"},
-  {"folke/tokyonight.nvim"},
-  {"oberblastmeister/neuron.nvim"},
-  {"tribela/vim-transparent"}
+  {"tribela/vim-transparent"},
 }
 -- -- Autocommands (`:help autocmd`) <https://neovim.io/doc/user/autocmd.html>
 -- vim.api.nvim_create_autocmd("FileType", {
